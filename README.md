@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thienbao8112
-- 👀 I’m interested in data
+- 👀 I’m interested
 - 🌱 I’m currently learning in FTU2 and self studying about data and machine learning
 - 📫 You can reach me via my email address: baoly081101@gmail.com
 
