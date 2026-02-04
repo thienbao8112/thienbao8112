@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thienbao8112
 - 👀 Money Enthusiast
 - 🌱 FTU 24'
-- 📫 You can reach me via my email address: baoly081101@gmail.com
+- 📫 You can reach me via my email address: baoly081102@gmail.com
 
 <!---
 thienbao8112/thienbao8112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
