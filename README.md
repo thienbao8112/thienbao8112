@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thienbao8112
 - 👀 Money Enthusiast
-- 🌱 FTU2 20-24
+- 🌱 FTU 24'
 - 📫 You can reach me via my email address: baoly081101@gmail.com
 
 <!---
