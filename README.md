@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thienbao8112
-- 👀 Money Enthusiast
+- 👀 Data Enthusiast
 - 🌱 FTU 24' | HCMUS 28'
 - 📫 You can reach me via my email address: baoly081102@gmail.com
 
