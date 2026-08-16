@@ -37,9 +37,9 @@ I am a Data and BI Analyst experienced in building end-to-end data warehouses us
 
 ## Featured Projects
 
-*   **[Modern Data Stack Platform Prototype](https://github.com/thienbao8112/modern-data-stack)**
+*   **[Modern Data Stack Platform Prototype](https://github.com/thienbao8112/lake_house_architect_end_to_end)**
     *   Built local data infrastructure (S3, PostgreSQL, dbt, Airflow) to simulate ELT/ETL workflows with metadata-driven DAGs.
-*   **[Sales Performance Analysis](https://github.com/thienbao8112/sales-analysis)**
+*   **[Sales Performance Analysis](https://github.com/thienbao8112/SALES_PERFORMANCE_ANALYST)**
     *   Conducted RFM segmentation and Market Basket Analysis; built interactive Power BI dashboards to identify revenue growth opportunities.
 
 ---
