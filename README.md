@@ -1,16 +1,14 @@
-- 👋 Hi, I’m @thienbao8112
-- 👀 Data Enthusiast
-- 🌱 FTU 24' | HCMUS 28'
-- 📫 You can reach me via my email address: baoly081102@gmail.com
-# 👋 Hi, I'm Ly Nguyen Thien Bao
+- Data Enthusiast
+- FTU 24' | HCMUS 28'
+- You can reach me via my email address: baoly081102@gmail.com
 
-## 🚀 Data Analyst | Business Intelligence | Analytics Engineer
+## Data Analyst | Business Intelligence | Analytics Engineer
 
 I am a Data and BI Analyst experienced in building end-to-end data warehouses using Medallion Architecture and modern data stacks. I specialize in stakeholder communication, defining business logic, data modeling, and ensuring data integrity and a Single Source of Truth (SSOT).
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 *   **Data Platform:** Data Modeling, Medallion Architecture, ELT/ETL, Semantic Layer, Governance
 *   **Analytics Engineering:** Logic Transformation, Metric Standardization, Data Quality
@@ -19,7 +17,7 @@ I am a Data and BI Analyst experienced in building end-to-end data warehouses us
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Business Intelligence Executive** — Digiworld Corporation
 *April 2025 – Present*
@@ -37,7 +35,7 @@ I am a Data and BI Analyst experienced in building end-to-end data warehouses us
 
 ---
 
-## 🏗️ Featured Projects
+## Featured Projects
 
 *   **[Modern Data Stack Platform Prototype](https://github.com/thienbao8112/modern-data-stack)**
     *   Built local data infrastructure (S3, PostgreSQL, dbt, Airflow) to simulate ELT/ETL workflows with metadata-driven DAGs.
@@ -46,17 +44,17 @@ I am a Data and BI Analyst experienced in building end-to-end data warehouses us
 
 ---
 
-## 🎓 Education
+## Education
 
 *   **BSc in Information Technology (2nd Degree)** — University of Science (HCMUS) | *2025 – Present*
 *   **BSc in International Business Economics** — Foreign Trade University (FTU2) | *2020 – 2024*
 
 ---
 
-## 📄 Full CV
+## Full CV
 You can view or download my complete resume as a [PDF version here](./LY_NGUYEN_THIEN_BAO_CV.pdf).
 
-📫 **How to reach me:**
+**How to reach me:**
 *   **Email:** [baoly081102@gmail.com](mailto:baoly081102@gmail.com)
 *   **LinkedIn:** [linkedin.com/in/thienbao8112](https://linkedin.com/in/thienbao8112)
 *   **GitHub:** [github.com/thienbao8112](https://github.com/thienbao8112)
